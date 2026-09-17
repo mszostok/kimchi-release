@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 Releases prior to the changelog introduction are documented on the [GitHub Releases page](https://github.com/getkimchi/kimchi/releases).
 
+## [Unreleased]
+
 ## [1.2.0] - 2026-09-17
 
 ### Changed
